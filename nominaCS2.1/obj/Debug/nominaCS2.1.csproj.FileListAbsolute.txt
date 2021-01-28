@@ -1,0 +1,68 @@
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\bin\Debug\nominaCS2.1.exe.config
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\bin\Debug\nominaCS2.1.exe
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\bin\Debug\nominaCS2.1.pdb
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2.1.csprojAssemblyReference.cache
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2._1.Agregar.resources
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2._1.Buscar.resources
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2._1.Login.resources
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2._1.Menu.resources
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2._1.Modificar.resources
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2._1.Nomina.resources
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2._1.Properties.Resources.resources
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2.1.csproj.GenerateResource.cache
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2.1.csproj.CoreCompileInputs.cache
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2.1.exe
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2.1.pdb
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2._1.Registro.resources
+C:\Users\mncn1\OneDrive\Escritorio\UNEDL-2020B\nominaCS2.1\obj\Debug\nominaCS2._1.ReciboPago.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\bin\Debug\nominaCS2.1.exe.config
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\bin\Debug\nominaCS2.1.exe
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\bin\Debug\nominaCS2.1.pdb
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2.1.csprojAssemblyReference.cache
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2._1.Agregar.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2._1.Buscar.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2._1.Login.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2._1.Menu.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2._1.Modificar.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2._1.Nomina.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2._1.Properties.Resources.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2._1.ReciboPago.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2._1.Registro.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2.1.csproj.GenerateResource.cache
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2.1.csproj.CoreCompileInputs.cache
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2.1.exe
+C:\Users\oalbe\Documents\4to Semestre\PVII\nominaCS2.1\obj\Debug\nominaCS2.1.pdb
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\bin\Debug\nominaCS2.1.exe.config
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\bin\Debug\nominaCS2.1.exe
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\bin\Debug\nominaCS2.1.pdb
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2.1.csprojAssemblyReference.cache
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2._1.Agregar.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2._1.Buscar.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2._1.Login.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2._1.Menu.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2._1.Modificar.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2._1.Nomina.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2._1.Properties.Resources.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2._1.ReciboPago.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2._1.Registro.resources
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2.1.csproj.GenerateResource.cache
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2.1.csproj.CoreCompileInputs.cache
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2.1.exe
+C:\Users\oalbe\Documents\4to Semestre\PVII\examen\nominaCS2.1\obj\Debug\nominaCS2.1.pdb
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\bin\Debug\nominaCS2.1.exe.config
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\bin\Debug\nominaCS2.1.exe
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\bin\Debug\nominaCS2.1.pdb
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2.1.csprojAssemblyReference.cache
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2._1.Agregar.resources
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2._1.Buscar.resources
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2._1.Login.resources
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2._1.Menu.resources
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2._1.Modificar.resources
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2._1.Nomina.resources
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2._1.Properties.Resources.resources
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2._1.ReciboPago.resources
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2._1.Registro.resources
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2.1.csproj.GenerateResource.cache
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2.1.csproj.CoreCompileInputs.cache
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2.1.exe
+C:\Users\mncn1\OneDrive\Escritorio\nominaCS2.1\obj\Debug\nominaCS2.1.pdb
